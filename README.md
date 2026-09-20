@@ -30,8 +30,8 @@ NETWORK CHECK
 ==============
 Internet: RUNNING
 DNS: RUNNING
-Your IP Address: 192.168.1.10
-Default Gateway: 192.168.1.1
+Your IP Address: 192.168.42.137
+Default Gateway: 192.168.42.137
 Gateway: RUNNING
 Interface: eth0
 Latency: 12.3 ms
